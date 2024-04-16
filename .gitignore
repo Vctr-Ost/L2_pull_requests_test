@@ -1,0 +1,5 @@
+.env
+raw/*
+stg/*
+.git/*
+.github/*
